@@ -1,0 +1,1 @@
+export const PERSIAN_NG_UI = "@persianNg/ui";
