@@ -2,6 +2,14 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "paths": {
+      "@persianNg/ui/*": [
+        "projects/persian-ng/ui/*",
+      ],
+      "@persianNg/ui": [
+        "projects/persian-ng/ui",
+      ]
+    },
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
