@@ -1,1 +1,2 @@
-export const PERSIAN_NG_UI = "@persianNg/ui";
+export * from './src/ui.component';
+export * from './src/ui.service';

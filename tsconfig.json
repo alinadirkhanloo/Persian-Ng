@@ -4,10 +4,10 @@
   "compilerOptions": {
     "paths": {
       "@persianNg/ui/*": [
-        "projects/persianNg/ui/*",
+        "projects/persian-ng/ui/*",
       ],
       "@persianNg/ui": [
-        "projects/persianNg/ui",
+        "projects/persian-ng/ui",
       ]
     },
     "baseUrl": "./",
